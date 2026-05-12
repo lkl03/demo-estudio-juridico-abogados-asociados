@@ -1,2 +1,7 @@
-# demo-estudio-juridico-abogados-asociados
-Demo web para Estudio Jurídico Abogados Asociados — diseñada por eterlab.
+# Estudio Jurídico Abogados Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
